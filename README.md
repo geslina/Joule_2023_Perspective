@@ -1,7 +1,7 @@
-# The Right Features For The Right Task - 09 March 2023
-Code used to generate analysis and results for the paper
+# Selecting the appropriate features in battery lifetime predictions - 09 March 2023
+Code used to generate analysis and results for the paper.
 
-Features extraction is done in Matlab. The main feature extraction script is featurization.m which calls other scripts in the subfolder Matlab_Utils
+Features extraction is done in Matlab. The main feature extraction script is featurization.m which calls other scripts in the subfolder Matlab_Utils.
 The Machine Learning analysis is entirely done in Python in the different ipynb.
 
 Files needed:
